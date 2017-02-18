@@ -1,0 +1,530 @@
+1	0	true real
+1	0	illustrious famous far-famed noted celebrated notable renowned famed
+0.5	0	real tangible
+0.25	0	existent real
+0.75	0	hardy sturdy stalwart stout
+0	0.5	real
+0	1	cynical misanthropical misanthropic
+0.75	0	able
+0	1	gloomy drab drear dreary dingy sorry dismal
+0	0.25	drab sombre sober somber
+1	0	capable able
+0.5	0	sturdy tough
+0	0.25	imperative
+0	1	dreary drab
+1	0	able able-bodied
+0	1	unbending rigid inflexible
+0	0.5	imperative
+0	1	guiltiness guilt
+0	0.5	demand need
+0	1	cause-of-death killer
+0	0.5	boot iron-boot iron-heel
+0	0.5	monitor
+0	1	selfishness
+0	0.75	abandon wantonness unconstraint
+0.5	0	curiosity wonder
+0	1	killer
+0	0.25	demand requirement
+0	0.75	demand
+1	0	marvel wonder
+1	0	gusto zestfulness relish zest
+1	0	admiration wonderment wonder
+1	0	flush rush bang boot thrill charge kick
+0	1	guilt-trip guilt guilty-conscience guilt-feelings
+0.25	0	monitor reminder admonisher
+0	1	slayer killer
+0	0.5	demand
+0	0.5	demand
+1	0	yearn
+0	0.75	yearn languish ache yen pine
+0	0.25	give-up abandon
+0	1	perplex complicate
+0	0.25	abandon give-up
+0	1	abandon forsake desolate desert
+0	0.75	amaze puzzle dumbfound vex pose get baffle perplex flummox stupefy gravel beat nonplus bewilder mystify stick
+0.25	0	inquire wonder enquire
+0	0.75	demand
+0.5	0	win-over convince convert
+0	0.25	wonder question
+1	0	marvel wonder
+1	0	good well
+1	0	sweet-smelling perfumed sweet scented odorous sweet-scented odoriferous
+1	0	good unspoilt unspoiled
+0.5	0	hot
+1	0	amiable affable genial cordial
+1	0	good
+1	0	good
+1	0	hot
+1	0	good
+1	0	good-humored good-humoured amiable
+0	1	harmful
+0	1	calumnious denigrating libellous denigrative denigratory defamatory libelous calumniatory slanderous
+1	0	harmonious
+1	0	salutary good beneficial
+1	0	good sound
+0.5	0	witty
+0.5	0	measured careful deliberate
+0.5	0	stately imposing noble baronial
+1	0	serious good
+0	0.75	hot
+1	0	angelical angelic sweet seraphic cherubic
+1	0	hot
+0.25	0	made
+0.5	0	meaningful
+0.5	0	purposeful
+1	0	mellifluous honeyed dulcet mellisonant sweet
+0	1	immoderate
+1	0	good
+0	0.5	baseborn humble lowly base
+0	1	noxious harmful
+0.25	0	red-hot hot
+0.5	0	good ripe right
+1	0	law-abiding peaceful
+1	0	innovative groundbreaking innovational
+1	0	peaceful
+0	1	hot
+1	0	good
+1	0	gratifying sweet
+1	0	sweet
+1	0	hot
+0.75	0	particular special
+0.5	0	forward-looking advanced innovative modern
+0.5	0	humble
+0.5	0	thrifty careful
+0	1	unqualified
+0	0.5	unqualified
+0.5	0	heedful careful
+0.75	0	honorable good respectable estimable
+0	0.25	stony-broke stone-broke skint broke bust
+0	0.75	alarming
+1	0	virtuous just good upright
+0	0.75	harmful
+0.75	0	religious
+0.75	0	sincere earnest solemn in-earnest
+1	0	sincere
+1	0	practiced proficient good skilful adept skillful expert
+0	0.75	arch
+0.75	0	hot
+0	0.25	lowly humble menial
+0.5	0	safe good dependable secure
+1	0	good benevolent
+0.75	0	made
+0	0.5	arch condescending patronizing patronising
+0	0.5	low lowly modest small humble
+1	0	good fine
+0	0.5	unexpected forced
+0.5	0	sweet
+0	1	harmful injurious evil
+0.25	0	unfermented sweet fresh
+1	0	optimal optimum
+0.5	0	stately statuesque
+0.25	0	sweet
+0	0.75	careful
+0	0.75	raging hot
+0.5	0	passive peaceful
+0	0.75	hot
+1	0	good
+0.75	0	worth deserving meriting
+0.75	0	careful
+0	0.75	impetuous brainish hotheaded tearaway madcap impulsive
+1	0	lighthearted blithe blithesome lightsome
+0	0.5	hot
+0.25	0	warm hot
+0.5	0	good dear near
+0.5	0	orderly consistent ordered logical
+0	0.25	disproportionate
+0	0.5	disproportional disproportionate
+0.75	0	especial special particular exceptional
+0.75	0	harmonious
+0	1	unqualified incapable
+0	0.25	unqualified
+0.75	0	good
+0	0.5	blithe
+0.5	0	appropriate harmonious
+0.25	0	consistent
+0	1	egregious flagrant rank glaring gross crying
+1	0	beneficial good
+0	0.75	disadvantageous harmful
+0.5	0	desirable
+0.5	0	courtly stately formal elegant
+0	0.75	undignified
+0.75	0	good
+0.5	0	hot
+0.5	0	medicare
+0	1	side-effect fallout
+0	1	strife
+0	0.5	ordeal trial-by-ordeal
+0	0.75	lying-in-wait ambush ambuscade trap
+0	0.75	combustion
+0	0.75	discord strife
+0	1	sorrowfulness sorrow sadness
+0	0.5	fatigue tiredness weariness
+1	0	vitality vim energy
+1	0	affluence richness
+0.5	0	cleanliness
+0	0.5	deafness hearing-loss
+0	0.5	fallout radioactive-dust
+0	0.5	cat cat-o'-nine-tails
+0	0.5	dungeon
+0.5	0	remedy curative cure
+0	0.5	trap
+0.5	0	vitality verve
+0.5	0	enthusiasm exuberance ebullience
+0	0.5	indifference spiritlessness apathy
+0.75	0	seriousness earnestness sincerity serious-mindedness
+0.25	0	precaution
+0	1	bitchiness spite nastiness cattiness spitefulness
+1	0	good goodness
+0	0.5	vanity conceit
+0.5	0	cleanliness
+0.25	0	light spark sparkle
+0.5	0	fullness richness mellowness
+0.5	0	vitality animation
+1	0	richness profusion cornucopia profuseness
+0.5	0	worth
+0	0.5	emptiness vanity
+0.75	0	goodness good
+0.75	0	richness fertility prolificacy
+0.5	0	gain profit
+0.5	0	good
+0	0.5	catch
+0	0.25	joke
+0.5	0	jest joke jocularity
+0	0.5	maw trap cakehole gob hole yap
+0.5	0	caution precaution care forethought
+0.75	0	skill science
+0.75	0	craft workmanship craftsmanship
+0	1	mental-retardation backwardness retardation subnormality slowness
+0	0.75	inefficiency
+0.25	0	sweetness sugariness sweet
+0.75	0	evasion
+0	0.5	snare trap
+0	0.5	bubble
+0	0.5	house-of-cards bubble
+0.5	0	commendation approval
+0.5	0	commendation citation
+0.5	0	jest gag laugh joke jape
+0	0.25	dollar dollar-mark dollar-sign
+0	0.75	scowl frown
+0	0.75	encounter confrontation showdown face-off
+0	0.75	confrontation
+0	0.5	confrontation
+0	1	ordeal
+0	1	accident
+0	0.5	apathy
+0	0.75	vanity amour-propre self-love conceit
+1	0	gaiety playfulness
+1	0	earnestness sincerity seriousness
+1	0	merriment gaiety
+0	1	sadness unhappiness
+0	1	malice maliciousness spitefulness spite venom
+0.75	0	exuberance
+0.5	0	safeguard guard precaution
+1	0	good well
+0.75	0	sweetly sweet
+0	1	misuse misapply
+0.75	0	fill fulfil fulfill meet satisfy
+0.5	0	accommodate
+0.5	0	catch capture get
+0	1	do-in waste neutralise neutralize knock-off liquidate
+0	0.25	catch
+0	0.5	cat
+0	0.5	punch plug
+0	0.25	capture catch
+0	0.25	trammel entrap snare ensnare trap
+0	0.5	collide clash
+0	0.25	trap
+0	1	destroy destruct
+0.25	0	catch get
+0	0.5	injure bruise wound offend spite hurt
+0	0.75	fail betray
+0	1	humiliate mortify humble chagrin abase
+0	0.75	take-down put-down demean degrade disgrace
+1	0	satisfy gratify
+0	0.75	covet
+0	0.25	trudge tramp pad slog footslog plod
+0	0.75	pervert abuse misuse
+0	0.25	funk wince quail cringe squinch recoil flinch shrink
+0	0.5	catch get
+0	0.25	take-in overhear catch
+0.25	0	catch
+0	1	hook snarf lift purloin nobble abstract sneak cabbage pilfer filch pinch swipe
+0.5	0	profit turn-a-profit
+0.5	0	gain profit benefit
+0	1	manipulate rig
+0	0.5	trap
+0	0.25	debar suspend
+0.75	0	woo romance solicit court
+0.25	0	woo court
+0	1	betray sell
+0.5	0	countervail neutralize counterbalance counteract
+0	0.75	shark
+0	0.75	cheat-on cuckold betray wander cheat
+0	1	falsify fudge manipulate misrepresent wangle cook fake
+0	0.25	jar clash collide
+0.75	0	fulfil fulfill live-up-to satisfy
+0.75	0	fit suit accommodate
+0.5	0	adjust correct set
+0.25	0	adjust
+0	0.5	frown lower lour glower
+0	0.5	suspend freeze
+0	0.5	catch
+0	0.25	interrupt disturb
+0	0.25	trip-up catch
+0	0.25	catch
+0	0.25	disgorge vomit retch vomit-up honk cast be-sick spew chuck throw-up regurgitate spue barf purge regorge cat sick puke upchuck
+0.25	0	manipulate
+0.5	0	heal bring-around cure
+0	1	forlorn godforsaken lorn desolate
+0	1	rotten
+1	0	intimate cozy informal
+0	1	phony bogus bastard phoney fake
+0	1	stinking stinky crappy lousy shitty icky rotten
+1	0	beneficent benevolent gracious
+1	0	worthy
+0	1	despicable unworthy vile ugly
+0	1	ugly surly
+1	0	worthy noble solid upstanding
+0	1	forlorn
+1	0	gallant majestic lofty proud
+0.5	0	palatial
+0.5	0	wise-to knowing wise
+0	1	unknowledgeable unwitting unknowing ignorant
+0.25	0	surrogate foster
+0	1	misbegot misbegotten bastardly spurious bastard
+0	1	loveless
+0	1	loveless
+1	0	overwhelming consuming
+0	0.25	untold
+1	0	together
+0.5	0	majestic regal purple royal imperial
+0.75	0	cheerful pollyannaish upbeat
+1	0	tremendous terrific marvellous wonderful wondrous rattling howling fantastic marvelous
+0	1	tender sore sensitive
+0	0.75	incautious unguarded
+0.75	0	executable viable workable feasible practicable
+1	0	gifted talented
+0.25	0	comprehensive
+1	0	sensible wise judicious
+0	0.5	irrational
+1	0	worthy
+0	0.75	purple over-embellished embellished empurpled
+0	1	frightful atrocious ugly horrible horrifying
+0	1	deplorable reprehensible criminal condemnable
+0	1	menacing forbidding minacious threatening sinister ominous minatory baleful ugly
+1	0	sensitive
+0	1	assumptive assuming presumptuous
+0	1	inexperienced ignorant
+0	1	decayed rotten rotted
+0	0.75	explosive volatile
+0	1	ugly
+1	0	beneficent
+1	0	olympian majestic
+0.5	0	so in-order
+0	1	untrustworthy untrusty
+0	0.5	ignorant unversed
+0	0.25	unprotected unguarded
+1	0	wise
+1	0	worthy
+0.25	0	palatial
+0	0.5	volatile
+1	0	eleemosynary benevolent beneficent philanthropic
+1	0	cheerful
+0	0.25	sensitive
+0	0.75	cozy
+1	0	cosy cozy snug
+0.5	0	comprehensive
+0.25	0	intelligible understandable apprehensible graspable perceivable
+0.5	0	comprehensive
+0	0.25	ignorant innocent
+0	1	fickle volatile
+0	1	rampant
+1	0	exact accurate precise
+0	0.25	outdated out-of-date obsolete superannuated
+1	0	wise diplomatic
+0.5	0	considered wise
+0	0.75	ugly
+0.25	0	beforehand advance
+0	0.25	illiterate ignorant
+0	0.75	ignorant unlettered unenlightened unlearned nescient
+0	0.75	impetuous
+0.25	0	flexible
+0	0.25	indispensable
+1	0	suitable desirable worthy
+0	0.5	unentitled unqualified
+0.75	0	harmonious proportionate symmetrical
+0.25	0	exact
+1	0	hot blistering red-hot
+1	0	hot
+0	0.25	particular finicky finical fussy
+0	1	untoward adverse inauspicious harmful
+0.5	0	flexible
+0.25	0	compromising flexible conciliatory
+1	0	flexible pliable pliant elastic
+0.25	0	volunteer unpaid-worker
+0	0.25	worthy
+0.5	0	rearing nurture bringing-up fosterage upbringing raising fostering breeding
+0	0.75	tempest
+0.75	0	placation conciliation propitiation
+0	0.25	case lawsuit cause suit causa
+0	1	sin hell
+0	0.25	contradiction
+0.75	0	conciliation
+0	1	storm tempest
+0	0.75	incompetence
+0	0.5	cecity sightlessness blindness
+0	1	affliction
+0	0.5	corn clavus
+0	1	wasting wasting-away atrophy
+0	1	difficulty
+0.25	0	purple
+0	1	suffering woe
+0	1	anguish
+1	0	refinement culture polish cultivation finish
+0	0.75	defect
+0	1	defect fault flaw
+1	0	prosperity successfulness
+0	1	affliction
+1	0	prosperity
+1	0	safety
+1	0	soundness
+0	1	slaying murder execution
+0	1	mass-murder massacre butchery slaughter carnage
+0.5	0	forward-motion progress advancement onward-motion procession advance progression
+0	1	mongrel bastard
+0.25	0	guard safety-device safety
+0	1	forget-me-drug roofy r-2 rope mexican-valium circle roach rophy
+1	0	pursuit interest pastime
+0	0.75	corn
+0	0.75	mar defect blemish
+0	1	difficultness difficulty
+1	0	worthiness
+1	0	brilliance splendor splendour grandness magnificence grandeur
+1	0	gallantry valiancy valour valor valorousness valiance heroism
+0.25	0	blaze brilliance glare
+0.25	0	gloss burnish glossiness polish
+0.75	0	soundness firmness
+0	0.75	incompetency incompetence
+1	0	wiseness wisdom soundness
+0	1	defect shortcoming
+0.75	0	interestingness interest
+1	0	genius brilliance
+0	1	hel hades hell infernal-region underworld scheol netherworld
+0	1	hell nether-region inferno perdition the-pit infernal-region
+0.5	0	involvement interest
+0	1	difficulty
+0	1	difficulty trouble
+0	0.5	injunction enjoinment enjoining cease-and-desist-order
+0.5	0	hand-clapping clapping applause
+0	1	static
+0	1	scorn contempt
+0	0.25	story fib tarradiddle tale taradiddle
+0.5	0	conciliation
+0	1	injunction
+0.75	0	courtship wooing courting suit
+0	0.25	contradiction
+0	1	affliction
+0	1	blaze hell
+1	0	improvement advance betterment
+0	1	misbehaviour misbehavior misdeed
+0	1	hell blaze
+0	1	expense
+0	1	withering atrophy
+1	0	ardour ardor fervidness fervency fervour fervor fire
+0	1	torture torment anguish
+0	1	contempt disdain despite scorn
+0	0.75	gloat glee gloating
+0	1	woefulness woe
+0	1	nest
+0	1	hell hell-on-earth snake-pit the-pits inferno hellhole
+1	0	nest
+1	0	refuge safety
+0.25	0	catch
+1	0	rescue deliverance saving delivery
+0	0.25	discard
+0	1	misuse abuse
+0.25	0	consultant adviser advisor
+0	1	mother-fucker sob bastard shit asshole prick motherfucker whoreson dickhead son-of-a-bitch cocksucker
+0	1	bastard love-child by-blow illegitimate illegitimate-child whoreson
+0	1	cat
+1	0	catch match
+0	1	liar prevaricator
+1	0	shark
+0	1	shark
+0	1	moon-curser contrabandist runner moon-curser smuggler
+0.25	0	unitedly together in-collaboration
+0.25	0	in-agreement in-concert together
+0.25	0	together
+0	0.75	overpower overmaster overwhelm
+0.75	0	pull-ahead make-headway advance get-ahead gain-ground win gain
+0.5	0	pander gratify indulge
+0	0.75	touch disturb
+0	0.25	overwhelm submerge drown
+0	0.25	disturb agitate raise-up commove stir-up vex shake-up
+0.25	0	draw-close nestle nest cuddle nuzzle snuggle
+0	0.5	enmesh ensnarl mesh
+0.25	0	bathe
+0	0.25	cover enshroud hide shroud
+0	0.25	feign assume simulate sham
+0	1	disturb trouble upset
+0	1	disdain despise scorn contemn
+0	1	hurt anguish pain
+0	1	anguish
+0	1	enrage
+1	0	cheer embolden hearten recreate
+0	1	dishearten put-off
+1	0	interest
+0.75	0	gloat
+0	1	rescue
+1	0	fly-high thrive prosper flourish
+0	1	smuggle
+1	0	kick-upstairs promote upgrade advance raise elevate
+0	1	collaborate
+1	0	play recreate
+0.25	0	volunteer
+0.75	0	offer volunteer
+0.5	0	certify indorse endorse
+1	0	recreate revivify repair quicken revive renovate animate reanimate vivify
+0.25	0	mesh
+1	0	get-along get-on come-on shape-up come-along progress advance
+0	1	bump-off remove murder dispatch slay hit polish-off
+0.25	0	foster
+1	0	deliver rescue
+0.75	0	foster further
+1	0	advance encourage boost further promote
+0.75	0	back indorse second endorse
+0	0.5	desert defect
+0	1	disturb
+1	0	suit
+0	0.25	sheet
+0.75	0	get-ahead expand prosper flourish thrive boom
+0.25	0	refine
+0	0.25	refine
+0.25	0	mesh interlock
+1	0	brush-up polish round polish-up round-off
+1	0	fine-tune refine polish down
+1	0	refine rectify
+0.25	0	refine
+1	0	facilitate alleviate ease
+0	1	mutilate murder mangle
+0.5	0	advance
+1	0	alleviate assuage palliate relieve
+0	1	overwhelm deluge flood-out
+0	0.75	take claim exact
+0	1	disdain spurn pooh-pooh scorn turn-down freeze-off reject
+0	0.75	knock criticize pick-apart criticise
+0	1	dissemble feign sham affect pretend
+0	0.75	denounce grass snitch rat stag shop shit give-away betray tell-on
+0	0.75	deride
+1	0	jest joke
+0	1	betray lead-astray deceive
+0.25	0	volunteer
+0.75	0	triumph crow gloat
+0	1	catch
+0.5	0	dedicate
+0.5	0	give consecrate dedicate commit devote
+1	0	exculpate discharge assoil acquit exonerate clear
+0	0.25	discourage deter
+0.5	0	nurture foster
+0	0.25	atrophy
+0.13	0.13	emphasize emphasise underline underscore

@@ -1,0 +1,31 @@
+{
+  "name": "word-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "franc": "^2.0.0",
+    "pos": "^0.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0",
+    "ts-node": "^2.1.0",
+    "tslint": "^4.4.2",
+    "typescript": "^2.1.6"
+  },
+  "scripts": {
+    "create:lemma": "ts-node lib/create-lemma.ts",
+    "create:emotion": "ts-node lib/create-emotion.ts",
+    "fetch:bands": "ts-node lib/fetch-bands.ts",
+    "fetch:albums": "ts-node lib/fetch-albums.ts",
+    "fetch:lyrics": "ts-node lib/fetch-lyrics.ts",
+    "strip": "ts-node lib/strip-raw-text.ts",
+    "tag": "ts-node lib/tagger.ts",
+    "frequency": "ts-node lib/frequency.ts",
+    "analysis": "ts-node lib/analysis.ts",
+    "stats": "ts-node lib/stats.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
