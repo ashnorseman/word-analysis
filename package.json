@@ -5,6 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "franc": "^2.0.0",
+    "koa": "^1.2.5",
+    "koa-body": "^1.6.0",
+    "koa-resource-router": "^0.4.0",
+    "mongoose": "^4.8.4",
     "pos": "^0.4.2"
   },
   "devDependencies": {
@@ -17,13 +21,17 @@
     "create:lemma": "ts-node lib/create-lemma.ts",
     "create:emotion": "ts-node lib/create-emotion.ts",
     "fetch:bands": "ts-node lib/fetch-bands.ts",
+    "fetch:band:info": "ts-node lib/fetch-band-info.ts",
     "fetch:albums": "ts-node lib/fetch-albums.ts",
     "fetch:lyrics": "ts-node lib/fetch-lyrics.ts",
     "strip": "ts-node lib/strip-raw-text.ts",
     "tag": "ts-node lib/tagger.ts",
     "frequency": "ts-node lib/frequency.ts",
     "analysis": "ts-node lib/analysis.ts",
+    "server": "nodemon -w server -x ts-node server/index.ts",
     "stats": "ts-node lib/stats.ts",
+    "theme": "ts-node lib/gen/theme.ts",
+    "sentence": "ts-node lib/gen/sentence.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

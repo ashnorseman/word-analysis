@@ -6,11 +6,11 @@ import * as events from 'events';
 import { request, ClientRequest, IncomingMessage, RequestOptions } from 'http';
 
 export class RequestQueue extends events.EventEmitter {
-  private requests: string[] = [];
+  private requests: any[] = [];
 
   constructor(
     private throttle: number,
-    private callback: (url: string, data: string) => void
+    private callback: (req: any, data: string) => void
   ) {
     super();
 
@@ -22,28 +22,28 @@ export class RequestQueue extends events.EventEmitter {
       }, this.throttle);
     });
 
-    this.on('error', (error) => {
+    this.on('error', () => {
+      console.log('error');
       this.requests.splice(0, 1);
-
-      console.error(error);
+      this.sendRequest();
     });
   }
 
-  queue(url: string) {
-    this.requests.push(url);
+  queue(options: any) {
+    this.requests.push(options);
   }
 
   sendRequest() {
-    const url = this.requests[0];
+    const next = this.requests[0];
 
-    if (!url) { return; }
+    if (!next) {
+      this.emit('end-queue');
+      return;
+    }
 
-    const options: RequestOptions = {
-      hostname: 'www.darklyrics.com',
-      path: `/${url}`
-    };
+    const req: ClientRequest = request(next);
 
-    const req: ClientRequest = request(options);
+    next.sending = true;
 
     req.on('response', (message: IncomingMessage) => {
       let data: string = '';
@@ -53,20 +53,34 @@ export class RequestQueue extends events.EventEmitter {
       });
 
       message.on('end', () => {
+        next.sending = false;
+
         this.emit('end');
 
         if (!data) { return; }
 
-        this.callback(url, data);
+        this.callback(next, data);
       });
     });
 
     req.on('error', () => {
+      next.sending = false;
+
       this.emit('error');
 
-      console.error(`error: ${url}`);
+      console.error(`error: ${JSON.stringify(next)}`);
     });
 
+    if (next.body) {
+      req.write(JSON.stringify(next.body));
+    }
+
     req.end();
+
+    setTimeout(() => {
+      if (next.sending) {
+        this.emit('end');
+      }
+    }, 30 * 1000);
   }
 }
