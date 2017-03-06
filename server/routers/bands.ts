@@ -14,7 +14,7 @@ module.exports = new Resource('bands', {
       // 'year': {
       //   $ne: null
       // },
-      'theme.0': {
+      'album.0': {
         $exists: false
       }
     };

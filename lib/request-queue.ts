@@ -23,9 +23,8 @@ export class RequestQueue extends events.EventEmitter {
     });
 
     this.on('error', () => {
-      console.log('error');
-      this.requests.splice(0, 1);
-      this.sendRequest();
+      // this.requests.splice(0, 1);
+      // this.sendRequest();
     });
   }
 
